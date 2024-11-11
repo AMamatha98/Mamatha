@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/57babdc1-c064-4540-b73a-3169ca58104e)
 
-                                        **Hi 👋, I'm Mamatha A**
+                                        Hi 👋, I'm Mamatha A
 
-                                   ** QA Automation Test Engineer**
+                                    QA Automation Test Engineer
 
 🌟 Welcome!
 
@@ -13,12 +13,18 @@ https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0
 🚀 Technical Skills
 
 Programming Language : Java, JavaScript
+
 Automated Tools : Selenium, Cucumber, TestNG
+
 Web Services : REST Assured
-Test Management : Jira, Rally
+
+Test Management : Jira, HP ALM - QC
+
 Database : SQL
-Version Control : GIT, Bitbucket
-Devops Tools : Jenkins, GCP
+
+Version Control : GIT, SVN
+
+Devops Tools : Jenkins
 
 🌱 I’m currently learning Cypress, MS Azure
 

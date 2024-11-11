@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/57babdc1-c064-4540-b73a-3169ca58104e)
 
-                                                                        **Hi 👋, I'm Mamatha A**
+                                        **Hi 👋, I'm Mamatha A**
 
-                                                                   ** QA Automation Test Engineer**
+                                   ** QA Automation Test Engineer**
 
 🌟 Welcome!
 
